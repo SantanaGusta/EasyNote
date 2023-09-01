@@ -1,0 +1,33 @@
+.caixa {
+
+  border: 2px solid #A6CDFC;
+  background-color: #A6CDFC;
+  padding: 8px;
+  width: 350px;
+  height: 475px;
+  margin: 0 auto;
+  color: white;
+  font-family:inherit;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+
+}
+
+h2{
+margin: auto;
+margin-top: 2rem;
+width: 10rem;
+height: 2px;
+text-align: center;
+
+}
+
+#add {
+  width: 5rem;
+  margin-top: 9rem;
+}

@@ -1,0 +1,53 @@
+header {
+  background-color: rgb(128, 186, 224);
+  height: 5rem;
+  width: 100%;
+  display: flex;
+}
+
+#logo {
+  width:7rem;
+}
+
+h1{
+color: white;
+font-family: 'Inter', sans-serif;
+margin-left: 10px;
+align-items: center;
+font-size: 65px;
+
+}
+
+#login {
+  height: 3.5rem;
+  width: 3rem;
+  margin-left: 9px;
+
+}
+
+h3{
+color: white;
+font-family: 'Inter', sans-serif;
+margin-left: 10px;
+align-items: center;
+font-size: 20px;
+}
+
+
+.login{
+  flex-direction:column;
+  display: flex;
+  margin-left: 85rem;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+#login-name{
+ display: flex;
+
+}
+
+
+

@@ -3,10 +3,18 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CabecalhoComponent } from './cabecalho/cabecalho.component';
+import { CorpoComponent } from './corpo/corpo.component';
+import { CriarNotaComponent } from './criar-nota/criar-nota.component';
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CabecalhoComponent,
+    CorpoComponent,
+    CriarNotaComponent
+
   ],
   imports: [
     BrowserModule,

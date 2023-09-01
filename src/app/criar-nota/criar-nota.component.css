@@ -1,0 +1,19 @@
+.caixa-titulo{
+  border: 2px solid #A6CDFC;
+  background-color: #A6CDFC;
+  padding: 8px;
+  width: 500px;
+  height: 700px;
+  margin: 0 auto;
+  color: white;
+  font-family:inherit;
+  margin-left: 45rem;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.h2{
+    
+}
